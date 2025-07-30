@@ -2,6 +2,8 @@
 
 A comprehensive collection of role-based AI agent templates designed to transform Claude into specialized team members for software development projects. These battle-tested templates provide structured personas that deliver consistent, high-quality assistance across various technical and creative domains.
 
+NOTE: To Contribute to this reop please see: https://github.com/Lower-Alabama-AI/ai-agents/blob/main/CONTRIBUTING.md
+
 ## Overview
 
 These templates go beyond simple prompts - they're complete role definitions that include:
